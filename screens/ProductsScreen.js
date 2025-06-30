@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginBottom: 10,
     resizeMode: 'contain',
-    backgroundColor: '#f5f5f5',
+    backgroundColor: 'white',
   },
 
   productInfo: {
