@@ -60,7 +60,7 @@ const HomeScreen = ({ navigation }) => {
         <Text style={styles.sectionTitle}>About Us</Text>
 
         <Text style={styles.aboutText}>
-          Welcome to our amazing store! We are a student-friendly e-commerce
+          Welcome to our amazing store! We are a user-friendly e-commerce
           platform that offers a wide variety of high-quality products at
           competitive prices. Our mission is to provide excellent customer
           service and deliver the best shopping experience possible.
